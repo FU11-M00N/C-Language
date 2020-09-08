@@ -11,7 +11,7 @@
 <table align="center" border="1">
 <tr>
     <td colspan="2">파일 업로드 폼</td>
-</tr>o
+</tr>
 <tr>
     <td>올린 사람:</td>
     <td><input type="text" name="name" /></td>
@@ -34,4 +34,4 @@
 </table>
 </form>
 </body>
-</html>ㅊ
+</html>
